@@ -11,8 +11,7 @@ I'm a data science student and aspiring machine learning engineer. I build proje
 - 📫 How to reach me: tushar.katpara09@gmail.com
 
 ## Featured projects
-- [project-one](https://github.com/TUshARKatpara/project-one) — short description
-- [project-two](https://github.com/TUshARKatpara/project-two) — short description
+https://github.com/TUshARKatpara/new-repo-.git
 
 ## How to contribute
 I welcome friendly contributions, ideas, and feedback — especially from other students and beginners. Ways to contribute:
